@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelBuddy</string>
+    <string name="title_detail">Destination</string>
+    <string name="title_about">About</string>
+
+    <!-- Main screen -->
+    <string name="main_subtitle">Tap a destination to see the details</string>
+    <string name="last_viewed_none">You haven\'t opened a destination yet</string>
+    <string name="last_viewed_format">Last viewed: %1$s</string>
+    <string name="menu_about">About</string>
+
+    <!-- List item -->
+    <string name="rating_format">★ %1$.1f</string>
+
+    <!-- Detail screen -->
+    <string name="label_best_season">Best season</string>
+    <string name="label_budget">Budget</string>
+    <string name="label_about_place">About this place</string>
+    <string name="action_share">Share</string>
+    <string name="action_open_web">Read more</string>
+    <string name="favourite_add">♡ Save to favourites</string>
+    <string name="favourite_remove">♥ Saved</string>
+    <string name="share_text_format">Check out %1$s, %2$s! %3$s\n%4$s</string>
+    <string name="share_chooser_title">Share destination via</string>
+    <string name="error_no_destination">Could not load this destination</string>
+    <string name="error_no_app">No app found to handle this action</string>
+
+    <!-- About screen -->
+    <string name="about_heading">TravelBuddy</string>
+    <string name="about_version">Version 1.0</string>
+    <string name="about_body">TravelBuddy is a small travel inspiration app built as a learning project for Android. It shows how Activities, explicit and implicit Intents and a RecyclerView fit together.</string>
+    <string name="about_support_heading">Need help?</string>
+    <string name="action_call_support">Call support</string>
+    <string name="action_email_feedback">Send feedback</string>
+    <string name="support_phone">tel:+911234567890</string>
+    <string name="support_email">mailto:feedback@travelbuddy.example</string>
+    <string name="feedback_subject">TravelBuddy feedback</string>
+</resources>
